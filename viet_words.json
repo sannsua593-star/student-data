@@ -1,0 +1,26 @@
+[
+  {
+    "vietWord":"Chào bạn",
+    "chineseMean":"你好",
+    "chineseHomophonic":"照 班",
+    "vietSentence":"Chào bạn, hôm nay bạn khỏe không?",
+    "senHomophonic":"照班，红乃班阔空？",
+    "senChinese":"你好，你今天好吗？"
+  },
+  {
+    "vietWord":"Cảm ơn",
+    "chineseMean":"谢谢",
+    "chineseHomophonic":"甘温",
+    "vietSentence":"Cảm ơn bạn rất nhiều",
+    "senHomophonic":"甘温班 然溜",
+    "senChinese":"非常谢谢你"
+  },
+  {
+    "vietWord":"Tạm biệt",
+    "chineseMean":"再见",
+    "chineseHomophonic":"淡别",
+    "vietSentence":"Tạm biệt, hẹn gặp lại",
+    "senHomophonic":"淡别，哼嘎来",
+    "senChinese":"再见，下次见"
+  }
+]
