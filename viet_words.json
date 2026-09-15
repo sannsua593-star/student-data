@@ -22,5 +22,405 @@
     "vietSentence":"Tạm biệt, hẹn gặp lại",
     "senHomophonic":"淡别，哼嘎来",
     "senChinese":"再见，下次见"
+  },
+  {
+    "vietWord": "Xin chào",
+    "chineseMean": "你好",
+    "chineseHomophonic": "新早",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Cảm ơn",
+    "chineseMean": "谢谢",
+    "chineseHomophonic": "感恩",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Tạm biệt",
+    "chineseMean": "再见",
+    "chineseHomophonic": "探别",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Xin lỗi",
+    "chineseMean": "对不起",
+    "chineseHomophonic": "新来",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Không có gì",
+    "chineseMean": "不客气",
+    "chineseHomophonic": "空锅记",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Vâng",
+    "chineseMean": "是/好的",
+    "chineseHomophonic": "望",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Không",
+    "chineseMean": "不",
+    "chineseHomophonic": "空",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Tôi",
+    "chineseMean": "我",
+    "chineseHomophonic": "堆",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Bạn",
+    "chineseMean": "你",
+    "chineseHomophonic": "班",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Anh",
+    "chineseMean": "哥哥/他（男）",
+    "chineseHomophonic": "安",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Chị",
+    "chineseMean": "姐姐/她（女）",
+    "chineseHomophonic": "吉",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Em",
+    "chineseMean": "弟弟/妹妹",
+    "chineseHomophonic": "耶姆",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Ông",
+    "chineseMean": "爷爷/外公",
+    "chineseHomophonic": "翁",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Bà",
+    "chineseMean": "奶奶/外婆",
+    "chineseHomophonic": "巴",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Bố",
+    "chineseMean": "爸爸",
+    "chineseHomophonic": "波",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Mẹ",
+    "chineseMean": "妈妈",
+    "chineseHomophonic": "麦",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Con",
+    "chineseMean": "孩子",
+    "chineseHomophonic": "贡",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Anh trai",
+    "chineseMean": "哥哥",
+    "chineseHomophonic": "安斋",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Chị gái",
+    "chineseMean": "姐姐",
+    "chineseHomophonic": "吉该",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Em trai",
+    "chineseMean": "弟弟",
+    "chineseHomophonic": "耶姆斋",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Em gái",
+    "chineseMean": "妹妹",
+    "chineseHomophonic": "耶姆该",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Chồng",
+    "chineseMean": "丈夫",
+    "chineseHomophonic": "充",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Vợ",
+    "chineseMean": "妻子",
+    "chineseHomophonic": "卧",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Bạn bè",
+    "chineseMean": "朋友",
+    "chineseHomophonic": "班杯",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Gia đình",
+    "chineseMean": "家庭",
+    "chineseHomophonic": "加丁",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Nhà",
+    "chineseMean": "家/房子",
+    "chineseHomophonic": "牙",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Công việc",
+    "chineseMean": "工作",
+    "chineseHomophonic": "工为",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Học",
+    "chineseMean": "学习",
+    "chineseHomophonic": "霍克",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Trường",
+    "chineseMean": "学校",
+    "chineseHomophonic": "昌",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Sách",
+    "chineseMean": "书",
+    "chineseHomophonic": "沙克",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Bút",
+    "chineseMean": "笔",
+    "chineseHomophonic": "布特",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Tiền",
+    "chineseMean": "钱",
+    "chineseHomophonic": "点",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Ngân hàng",
+    "chineseMean": "银行",
+    "chineseHomophonic": "恩航",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Thị trường",
+    "chineseMean": "市场",
+    "chineseHomophonic": "市场",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Cửa hàng",
+    "chineseMean": "商店",
+    "chineseHomophonic": "瓜航",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Ăn",
+    "chineseMean": "吃",
+    "chineseHomophonic": "安",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Uống",
+    "chineseMean": "喝",
+    "chineseHomophonic": "翁",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Cơm",
+    "chineseMean": "米饭",
+    "chineseHomophonic": "贡姆",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Phở",
+    "chineseMean": "河粉",
+    "chineseHomophonic": "佛",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Nước",
+    "chineseMean": "水",
+    "chineseHomophonic": "努克",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Trà",
+    "chineseMean": "茶",
+    "chineseHomophonic": "查",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Cà phê",
+    "chineseMean": "咖啡",
+    "chineseHomophonic": "咖非",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Thịt",
+    "chineseMean": "肉",
+    "chineseHomophonic": "特",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Cá",
+    "chineseMean": "鱼",
+    "chineseHomophonic": "嘎",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Rau",
+    "chineseMean": "蔬菜",
+    "chineseHomophonic": "绕",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Trái cây",
+    "chineseMean": "水果",
+    "chineseHomophonic": "柴该",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Táo",
+    "chineseMean": "苹果",
+    "chineseHomophonic": "套",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Chuối",
+    "chineseMean": "香蕉",
+    "chineseHomophonic": "锥",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Cam",
+    "chineseMean": "橙子",
+    "chineseHomophonic": "甘",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
+  },
+  {
+    "vietWord": "Xoài",
+    "chineseMean": "芒果",
+    "chineseHomophonic": "苏艾",
+    "vietSentence": "数据更新中",
+    "senHomophonic": "/",
+    "senChinese": "/"
   }
 ]
